@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bacstage
+  annotations:
+    github.com/project-slug: Allianz-Global-Digital-Factory/bacstage
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
